@@ -1,0 +1,5 @@
+2018-08-13 19:55:15,346  - INFO - ----  test001_≤‚ ‘QQ“Ù¿÷_com.tencent.qqmusic:id/c1w_click          ----
+2018-08-13 19:55:22,257  - INFO - ----  test001_≤‚ ‘QQ“Ù¿÷_//android.widget.ImageView[@instance=3]_click          ----
+2018-08-13 19:55:24,535  - INFO - ----  test001_≤‚ ‘QQ“Ù¿÷_com.tencent.qqmusic:id/c32_click          ----
+2018-08-13 19:55:25,775  - INFO - ----  test001_≤‚ ‘QQ“Ù¿÷_com.tencent.qqmusic:id/c32_           ----
+2018-08-13 19:55:25,953  - INFO - [CheckPoint_1]: testFirstOpen_ : OK
