@@ -1,7 +1,0 @@
-Appium-Python-Client 0.28
-PyYAML 3.13
-XlsxWriter 1.0.5
-pip 10.0.1
-selenium 4.14.0
-setuptools 39.1.0
-urllib3 1.23
