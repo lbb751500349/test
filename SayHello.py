@@ -13,10 +13,10 @@
 def Say_hello(people):
     print('hello' + ',' + people)
 
-def Say_Bye():
-    print('Bye')
+#def Say_Bye():
+#    print('Bye')
 
 
 if __name__ == "__main__":
     Say_hello('Tom')
-    Say_Bye()
+#   Say_Bye()
