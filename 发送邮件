@@ -1,0 +1,16 @@
+def send_email_method():
+    # 示例：发送QQ邮件
+    to_addr = ["751500349@qq.com"]
+    mail_host = 'smtp.qq.com'
+    mail_user = '751500349@qq.com'
+    mail_pass = 'cdttsulqgkzqbeih'
+    # 自定义端口
+    port = "587"
+    header_msg = "接口测试结果"
+    attach = """
+    Dear all:
+        以下是今日采集易APP自动化测试报告附件，烦请查收~
+    """
+    report = PATH("../Report/report.xlsx")
+    send_mail(to_addr=to_addr, mail_host=mail_host, mail_user=mail_user, port=port, mail_pass=mail_pass,
+              header_msg=header_msg, report=report, attach=attach, report_name="report.xlsx")
